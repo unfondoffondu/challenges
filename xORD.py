@@ -1,3 +1,7 @@
+# You need to input the correct flag to get the congratulations output!
+# Submit the flag to me for +100 points. 
+
+
 validator = input("What is the flag? >>> ")
 var1 = "0x001b"
 var2 = "0x0016"
