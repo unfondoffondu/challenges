@@ -3,7 +3,7 @@ comprehend code that was intentionally made difficult to understand.  While comp
 these were by my favorites to attempt.  
 
 Writing code challenges is good practice.  I will periodically add challenges here and if anyone wants
-to submit a flags to me by all means e-mail me!  One flag = 100 cool points.  If you have challenges, 
+to submit a flag to me by all means e-mail me!  One flag = 100 cool points.  If you have challenges, 
 feel free to contribute!
 
 Get crackin!
