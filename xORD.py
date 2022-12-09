@@ -9,7 +9,7 @@ var2 = "0x0016"
 def phase_one():
     if len(validator) ^ 10 == int(var1,0):
         if ord(validator[0]) ^ 22 + ord(validator[1]) ^ 22 == 242 and len(validator) ^ 10 == int(var1, 0):
-            phase_two(validator)
+            print("hmm.....")
         if phase_three(phase_two(validator)):
             print(f"*****congrats*****")
         else:
